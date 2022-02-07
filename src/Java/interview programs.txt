@@ -1,0 +1,28 @@
+Leela Satya Venugopalaswamy Chittidi
+count all the all alphabets with same element
+
+Class Name;
+public static void main(String [] args)
+{
+String Name= 'Leela Satya Venugopalaswamy Chittidi';
+
+String Alphabets='abcedfghijklmnopqrstuvwxyz';
+
+
+
+
+//cat dog
+Repalce the string
+Class Name1
+public static void main(String [] args)
+{
+String Name= "cat dog";
+string new_str="str.replaceAll("dog","cat);
+{
+system.out.println("New String is" + new_str);
+}
+
+
+
+
+
